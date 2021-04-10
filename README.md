@@ -1,2 +1,2 @@
-# Linear-Algebra_Basic
+# 선형대수학 기초 Self-Study
 Linear-Algebra Basic
